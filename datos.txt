@@ -1,0 +1,4 @@
+ línea del archivo.
+Esta línea ha sido incluida desde el exterior
+Tercera línea añadida al final.
+Cuarta línea también.
